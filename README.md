@@ -5,5 +5,5 @@
   int a,b;
   cout<<"Enter numbers";
   cin>>a>>b;
-  cout<<"The sum of numbers is :"<<a+b<<endl;
+  cout<<"The sum of numbers is :"<<a+b<<endl<<endl;
   }
